@@ -15,3 +15,6 @@ print('Шелепов Артем')
 print('Могильный Борислав')
 print("Мельник Ульяна")
 print("здравствуйте, я был тут(Степанов Михаил)")
+print("#include <iostream>\n
+using namespace std;\n
+int main(){cout << "2720"}")
