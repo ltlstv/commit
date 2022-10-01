@@ -19,3 +19,4 @@ print("здравствуйте, я был тут(Степанов Михаил)
 print("здесь был пешков")
 
 print('Силков Александр')
+print("#include <iostream>\nusing namespace std;\nint main(){cout << 2720}")
